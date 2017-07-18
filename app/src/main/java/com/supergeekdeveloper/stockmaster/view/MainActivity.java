@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager viewPager;
+    private int random=0;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
